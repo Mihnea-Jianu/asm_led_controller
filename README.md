@@ -1,8 +1,8 @@
 # ASM LED Controller
 
-The ASM LED Controller Board is an algorithmic state machine, designed to store 
-and run a microprogram which commands the state of the 22 LEDs that are part of 
-the on-board, heart-shaped LED array.
+The ASM LED Controller Board is an algorithmic state machine, designed to store
+and run a microprogram which controls the states of the 22 LEDs that make up the
+on-board, heart-shaped LED array.
 
 ## Features
 
