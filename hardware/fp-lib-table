@@ -1,0 +1,9 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "AS6C1008-55PCN") (type "KiCad") (uri "${KIPRJMOD}/footprints/AS6C1008-55PCN.pretty") (options "") (descr ""))
+	(lib (name "BH-18650-PC") (type "KiCad") (uri "${KIPRJMOD}/footprints/BH-18650-PC.pretty") (options "") (descr ""))
+	(lib (name "CD4060BE") (type "KiCad") (uri "${KIPRJMOD}/footprints/CD4060BE.pretty") (options "") (descr ""))
+	(lib (name "JS202011CQN") (type "KiCad") (uri "${KIPRJMOD}/footprints/JS202011CQN.pretty") (options "") (descr ""))
+	(lib (name "LM7805") (type "KiCad") (uri "${KIPRJMOD}/footprints/LM7805.pretty") (options "") (descr ""))
+	(lib (name "OS103011MS8QP1") (type "KiCad") (uri "${KIPRJMOD}/footprints/OS103011MS8QP1.pretty") (options "") (descr ""))
+)
