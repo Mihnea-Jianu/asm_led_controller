@@ -18293,8 +18293,21 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "1"
-		(at 47.5 129.75 0)
+	(gr_text "PAUSE"
+		(at 44 136.25 0)
+		(layer "F.SilkS")
+		(uuid "1a7d7d63-21bd-47aa-9c6b-e0569f0aa58b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SLOW"
+		(at 44.75 129.75 0)
 		(layer "F.SilkS")
 		(uuid "96c213e9-19b7-416f-924d-bee395e0862d")
 		(effects
@@ -18306,23 +18319,10 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "2"
-		(at 47.5 133 0)
+	(gr_text "FAST"
+		(at 45.25 133 0)
 		(layer "F.SilkS")
 		(uuid "564bfbd1-51c5-4514-9cd4-5914373cf3d9")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.2)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "3"
-		(at 47.5 136.25 0)
-		(layer "F.SilkS")
-		(uuid "1a7d7d63-21bd-47aa-9c6b-e0569f0aa58b")
 		(effects
 			(font
 				(size 1 1)
